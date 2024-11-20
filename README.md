@@ -21,3 +21,13 @@ This project aims to predict whether students on an online education platform wi
 # Project Overview
 This project explores different machine learning techniques to classify users based on engagement metrics. The dataset is imbalanced, as most users remain on the free plan while a minority upgrade.
 
+![](https://github.com/RaniaBadawi/Rania_Portfolio/blob/main/Project%202%20images/1.jpeg)
+
+![](https://github.com/RaniaBadawi/Rania_Portfolio/blob/main/Project%202%20images/2.jpeg)
+
+![](https://github.com/RaniaBadawi/Rania_Portfolio/blob/main/Project%202%20images/3.jpeg)
+
+![](https://github.com/RaniaBadawi/Rania_Portfolio/blob/main/Project%202%20images/4.jpeg)
+
+![](https://github.com/RaniaBadawi/Rania_Portfolio/blob/main/Project%202%20images/5.jpeg)
+
